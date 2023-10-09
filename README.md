@@ -12,8 +12,13 @@ This is meant to be used for "back-of-the-napkin math", and it's understood that
 
 ### Install
 
-> git clone git@github.com:ishmaelthedestroyer/real-estate-scenarios.git
-> yarn install
+```bash
+git clone git@github.com:ishmaelthedestroyer/real-estate-scenarios.git
+```
+
+```bash
+yarn install
+```
 
 ### Configure
 
@@ -26,6 +31,6 @@ This is meant to be used for "back-of-the-napkin math", and it's understood that
 
 ### Run
 
-```
+```bash
 yarn start:dev
 ```
