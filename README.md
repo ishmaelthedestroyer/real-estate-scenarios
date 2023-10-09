@@ -1,5 +1,9 @@
 # Housing Scenarios
 
+### Install
+
+> git clone
+
 ### Configure
 
 - Edit constants in `src/constants.ts`
