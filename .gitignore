@@ -9,6 +9,9 @@ node_modules/
 # Coverage
 coverage
 
+### Docs
+FINDINGS.md
+
 # Transpiled files
 build/
 dist/

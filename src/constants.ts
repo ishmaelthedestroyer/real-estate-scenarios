@@ -6,7 +6,7 @@ export const INITIAL_INVESTMENT_AMOUNT: number = 1_000_000;
 /**
  * given a purchase price, the percentage rent from the annual cost
  */
-export const PERCENTAGE_RENT_FROM_PURCHASE_PRICE: number = 0.013;
+export const PERCENTAGE_RENT_FROM_PURCHASE_PRICE: number = 0.01;
 
 /**
  * the percentage of rent that goes to operating costs
