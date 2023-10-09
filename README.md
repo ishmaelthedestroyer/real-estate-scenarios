@@ -2,7 +2,8 @@
 
 ### Install
 
-> git clone
+> git clone git@github.com:ishmaelthedestroyer/real-estate-scenarios.git
+> yarn install
 
 ### Configure
 
